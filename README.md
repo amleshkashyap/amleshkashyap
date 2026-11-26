@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there, I'm [Amlesh Kashyap] 👋
+
+I'm a Software Engineer focused on Backend Development.
+
+
+## Links & Contact
+- 💼 LinkedIn: [https://linkedin.com](https://linkedin.com/in/amleshkashyap)
+- Hire me on Toptal: [https://toptal.com](https://www.toptal.com/developers/resume/amlesh-kashyap#5j73Ka)
