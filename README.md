@@ -1,4 +1,4 @@
-# Hi there, I'm [Amlesh Kashyap] 👋
+# Hi there, I'm Amlesh Kashyap 👋
 
 I'm a Software Engineer with experience in Backend Development, Full-Stack Applications, Performance Engineering and AI.
 
