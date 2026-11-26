@@ -1,24 +1,10 @@
-## Hi there 👋
-
-<!--
-**amleshkashyap/amleshkashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Hi there, I'm [Amlesh Kashyap] 👋
 
-I'm a Software Engineer focused on Backend Development.
+I'm a Software Engineer with experience in Backend Development, Full-Stack Applications, Performance Engineering and AI.
 
 
 ## Links & Contact
 - 💼 LinkedIn: [https://linkedin.com](https://linkedin.com/in/amleshkashyap)
-- Hire me on Toptal: [https://toptal.com](https://www.toptal.com/developers/resume/amlesh-kashyap#5j73Ka)
+- [Hire Me On Toptal](https://www.toptal.com/developers/resume/amlesh-kashyap#5j73Ka)
+
+[![amleshkashyap's GitHubCard](https://githubcard.com/amleshkashyap.svg?d=55gvmDUu0coz)](https://githubcard.com/amleshkashyap/card?utm_source=github&utm_medium=readme)
